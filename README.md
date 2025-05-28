@@ -70,7 +70,7 @@ To use the Data Encryption Standard (DES) algorithm for a practical application,
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/8ed9004a-6594-4c87-87cd-08cc588bb071)
+![image](https://github.com/user-attachments/assets/e729c0db-54e6-486c-94b0-3b8406a62a0d)
 
 ## Result:
   The program is executed successfully.
